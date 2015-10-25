@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Musei di competenza di Roma Capitale, 2011</name>
+  <description><![CDATA[Elenco dei Musei di competenza di Roma Capitale, anno 2011]]></description>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Museo dell&#39;Ara Pacis</name>
+    <description><![CDATA[<div>Lungotevere in Augusta - 00186 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0">
+<p><font size="3" face="Calibri">Martedì-domenica 9.00-19.00; 24 </font></p>
+<p><font size="3" face="Calibri">e 31 dicembre 9.00-14.00 (la biglietteria chiude un'ora prima)</font></p>
+<p>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.arapacis.it</font></td></tr></tbody></table></p></td></tr></tbody></table></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>12.474738,41.907658,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo di Scultura antica Giovanni Barracco</name>
+    <description><![CDATA[Corso Vittorio Emanuele II, 166 - 00186 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0">
+<div><font size="3" face="Calibri">Martedì-domenica 9.00-19.00; 24 e 31 dicembre 9.00-14.00 (la biglietteria chiude mezz'ora prima)</font></div>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museobarracco.it</font></td></tr></tbody></table></div></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f60457ff532d5:0x13094f9aa0703031&amp;q=Corso+Vittorio+Emanuele,+166/A,+roma&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=MnNhUNaKFKrGiAa7v4GoAw&amp;sig2=kBQc-n0sQX1gXZwicPiJsg&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.896914,12.472534&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>12.472534,41.896915,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Carlo Bilotti</name>
+    <description><![CDATA[<div dir="ltr">Viale Fiorello La Guardia snc<br>Martedì-domenica 9.00-19.00; 24 e 31 dicembre 9.00-14.00 (la biglietteria chiude mezz'ora prima)<br>www.museocarlobilotti.it<br></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>12.483229,41.913338,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo di Roma</name>
+    <description><![CDATA[<div>Piazza di San Pantaleo, 10 - 00186 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Martedì-domenica 9.00-19.00, 24 e 31 dicembre 9.00-14.00 (la biglietteria chiude un'ora prima)</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museodiroma.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f604f84795feb:0x8e4698485063f19c&amp;q=Piazza+di+San+Pantaleo,+10,+Roma,+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=qXNhUJvROIHYiAac64CwAQ&amp;sig2=ddzh71o77OBKMK4TzuN5ow&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.897184,12.472963&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>12.472963,41.897182,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Musei Capitolini</name>
+    <description><![CDATA[<div dir="ltr">Piazza del Campidoglio, 1 - Martedì-domenica 9.00-20.00; 24 e 31 dicembre 9.00-14.00 (la biglietteria chiude un'ora prima)<br>www.museicapitolini.org<br></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>12.482747,41.893177,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo della Civilta&#39; Romana</name>
+    <description><![CDATA[<div dir="ltr">Piazza G. Agnelli, 10<br>Martedì-sabato 9.00-14.00; domenica e festivi 9.00-13.30 (la biglietteria chiude un'ora prima).<br></div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>12.477774,41.831448,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Civico di Zoologia</name>
+    <description><![CDATA[<div dir="ltr">Via Ulisse Aldrovandi, 18 - Ore 9.00 - 19.00<br></div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>12.488687,41.919285,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Macro Testaccio</name>
+    <description><![CDATA[<div>Piazza Orazio Giustiniani, 4 - 00153 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Martedì-domenica ore 16.00-24.00 (la biglietteria chiude 30 minuti prima). Aperto solo in caso di mostre</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.macro.roma.museum</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f602f6dc26c43:0x13094f9ac19fbdd0&amp;q=Piazza+Orazio+Giustiniani,+4,+Roma,+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=8HRhUPiqBufFiAbiloDwAg&amp;sig2=ul-fF3BTQ3Nv9U0jvGzG6w&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.876162,12.473635&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>12.473635,41.876163,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mercati di Traiano - Museo dei Fori Imperiali</name>
+    <description><![CDATA[<div>Via IV Novembre, 94</div>
+<div>00187 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Martedì - domenica 9.00-19.00 (la biglietteria chiude un'ora prima), 24 dicembre e 31 dicembre 9.00 - 14.00</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.mercatiditraiano.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f61b2efeace3f:0x118ab499808be3dc&amp;q=Via+IV+Novembre,+94,+roma&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=wHVhUIfYFuHviAbw1YGoDQ&amp;sig2=OvZFb4dNz_h7vNV3pMb85A&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.896108,12.485984&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>12.485984,41.896107,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Pietro Canonica</name>
+    <description><![CDATA[<div dir="ltr">Viale Pietro Canonica, 2 - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Martedì-domenica 9.00-19.00; festività 9.00-13.30; 6 gennaio, 1 novembre, 8, 24 e 31 dicembre 9.00-13.30 (la biglietteria chiude mezz'ora prima)</font></td></tr></tbody></table></div>
+<div dir="ltr">
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museocanonica.it</font></td></tr></tbody></table></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>12.486172,41.914272,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo delle Mura</name>
+    <description><![CDATA[<div>Via di Porta San Sebastiano snc - Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3"><font face="Calibri">Martedì-domenica 9.00-14.00 (la biglietteria chiude mezz'ora prima)<span>&nbsp;</span></font></font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museodellemuraroma.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f61db2fe5e29b:0x37501925bb83adb1&amp;q=Via+di+Porta+San+Sebastiano,+Roma&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=W3ZhUOeKJqWyiAbYpoHwBA&amp;sig2=_382JflUzqKpDx8FGScQ8w&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.877202,12.499125&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>12.499125,41.877201,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo di Roma in Trastevere</name>
+    <description><![CDATA[<div>Piazza Sant'Egidio, 1/b&nbsp; - 00153 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Martedì-domenica 10.00-20.00; 24 e 31 dicembre 10.00-14.00 (la biglietteria chiude un'ora prima)</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museodiromaintrastevere.it</font></td></tr></tbody></table><a href="https://maps.google.it/maps/place?ftid=0x132f603882621e3d:0x39452b67fbfeecbd&amp;q=Piazza+di+Sant%27Egidio,+1/b,+Roma,+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=e3ZhUMH0H8nWiAbOt4HoAg&amp;sig2=B8EC0AOa7r5a6Wk3akfwIQ&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.889899,12.469054&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>12.469054,41.889900,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Napoleonico</name>
+    <description><![CDATA[Piazza di Ponte Umberto I, 1 - 00186 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Martedì-domenica 9.00-19.00; 24 e 31 dicembre 9.00-14.00 (la biglietteria chiude mezz'ora prima)</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museonapoleonico.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f605a7d0db141:0x13094f9aa0702d91&amp;q=Piazza+di+Ponte+Umberto+I,+1,+Roma,+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=j3ZhUJviFqLwiAbfjIDABw&amp;sig2=vEXRzdQj2aN58JqcPvr-pQ&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.901985,12.471767&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>12.471767,41.901985,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo della Repubblica Romana e della Memoria Garibaldina</name>
+    <description><![CDATA[Largo di Porta San Pancrazio, 153 - Roma -&nbsp; 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Martedì - venerdì ore 10.00 - 14.00 (ingresso contingentato ogni 45 minuti) Sabato, domenica e festivi ore 10.00 – 18.00<span>&nbsp; </span>(ingresso non contingentato)<span>&nbsp; </span>24 e 31 dicembre ore 10.00 - 14.00 Il sabato e la domenica la biglietteria chiude trenta minuti prima, gli altri giorni della settimana chiude un'ora prima</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f603fd3057cb1:0xbc7c16daa1ee2438&amp;q=Largo+di+Porta+San+Pancrazio,+153+Roma,+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=onZhUMSlK6HsiAa14oCwDw&amp;sig2=oTqpL6w2WYDHc0zxO02eGw&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.888341,12.461498&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>12.461498,41.888340,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo di Casal De&#39; Pazzi</name>
+    <description><![CDATA[Via Ciciliano all’incrocio con via E. Galbani - 00156 Roma (
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">In allestimento</font></td></tr></tbody></table>)<br><a href="https://maps.google.it/maps/place?ftid=0x132f63853722c41f:0x7fbb31c2cd198e58&amp;q=Via+Ciciliano,+Roma,+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=1XZhUOSXJIPaiAav34HQAw&amp;sig2=sZt9sh5IHteW80NEadwsZw&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.928586,12.565513&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>12.565513,41.928585,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo del Teatro Argentina</name>
+    <description><![CDATA[<div>Via dei Barbieri, 21 - 00186 Roma</div>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3"><font face="Calibri">Aperto solo su appuntamento.<span>&nbsp; </span>Ingresso consentito solo a gruppi accompagnati.<span>&nbsp;</span></font></font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f604ede63b8db:0x13094f9ac05558a1&amp;q=Via+dei+Barbieri,+21,+Roma,+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=N3dhUM-ZDMSziAaXoYCgDA&amp;sig2=Ao0nrhCLfZ0hFrqeenSiNA&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.895315,12.475157&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>12.475157,41.895313,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo della Matematica</name>
+    <description><![CDATA[Piazzale Aldo Moro, 5 - 00185 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Ore 9.00-18.00</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f619e9fa05955:0x523c4dd44f8d5eb8&amp;q=Piazzale+Aldo+Moro,+5,+Roma,+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=S3dhUO7rJ6a5iAa-uoH4CQ&amp;sig2=7hcCGNRZ82VumtqruA3CjA&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.901093,12.512431&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>12.512431,41.901093,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Nazionale di Arte Sanitaria</name>
+    <description><![CDATA[Presso Ospedale Santo Spirito - Lungotevere Sassia - 00193 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Ore 10.00 - 12.00</font></td></tr></tbody></table>&nbsp;- 
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.comune.roma.it/artesanitaria</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f605d30847695:0xc064d9371fa70be3&amp;q=Lungotevere+Sassia,+3,+Roma,+00193+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=RnhhUKzpMobJiAb73IDABQ&amp;sig2=Vuy5l1S6pFWttAJrM8gF3Q&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.900998,12.462928&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>12.462928,41.900997,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Planetario</name>
+    <description><![CDATA[Piazza Giovanni Agnelli, 10 - 00144 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Dal 1 settembre al 30 giugno: martedì-venerdì 9.00-14.00; sabato e domenica 9.00-19.00; 24 e 31 dicembre 9.00-14.00. Spettacoli: martedì-venerdì 9.30, 11.00, 12.30; sabato e domenica 9.30, 11.00, 12.30, 15.00, 16.00, 17.30. Dal 1° luglio al 31 agosto: martedì-venerdì 20.30-23.30; sabato e domenica 16.30-19.00 e 20.30-23.30-23.30. Spettacoli: martedì-venerdì 21.00 e 22.30; sabato e domenica: 17.00-18.00 - 21.00-22.30. Gli orari sono suscettibili di variazioni (l'ingresso è consentito fino all'orario di inizio dell'ultimo spettacolo alle 12,30 e sabato e domenica alle 17,30; 24 e 31 dicembre 9.00-14.00 - ingresso fino all'orario di inizio dell'ultimo spettacolo alle 12,30)</font></td></tr></tbody></table>&nbsp;
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.planetarioroma.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x13258afde8017fe5:0xf85b11ddd571e7a&amp;q=Piazza+Giovanni+Agnelli,+10,+Roma,+00193+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=fHhhUMuIEaLwiAbfjIDABw&amp;sig2=w0g2OZ8oAue-pPBLe6ToUg&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.831666,12.477850&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>12.477850,41.831665,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa di Massenzio</name>
+    <description><![CDATA[<div>Via Appia Antica, 153, Parco Urbano dell'Appia Antica - 00178 Roma</div>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3"><font face="Calibri">Martedì-domenica 9.00-13.30 (la biglietteria chiude mezz'ora prima)<span>&nbsp;</span></font></font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museiincomuneroma.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x13258a1a99bf32bb:0xe021b4f982d0a263&amp;q=Via+Appia+Antica,+153,+Roma,+00193+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=knhhUIffBorJiAac2YDIBQ&amp;sig2=vA3fXjRCRUpbve15Wh8nfg&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.853682,12.518950&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>12.518950,41.853683,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa Moravia</name>
+    <description><![CDATA[Lungotevere della Vittoria, 1 - 00195 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3"><font face="Calibri">Didattica per il pubblico: il 1° sabato di ogni mese, alle 10.00 e alle 11.00<span>&nbsp;</span></font></font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f60edc8ae57bf:0x13094f9aa22c3b91&amp;q=Lungotevere+della+Vittoria,+1,+Roma,+00193+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=p3hhUNTcMqLYiAaF6ICQAg&amp;sig2=xW0vjKaDrVFNeFxYdlxIPQ&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.921389,12.466503&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>12.466503,41.921391,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centrale Montemartini</name>
+    <description><![CDATA[Via Ostiense, 106 - 00154 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Martedì-domenica 9.00-19.00; 24 e 31 dicembre 9.00-14.00 (la biglietteria chiude mezz'ora prima)</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.centralemontemartini.org</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x13258a819d0c9f7b:0xf00656b0e3022cb0&amp;q=Via+Ostiense,+106,+Roma,+00193+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=xnhhUKKkJKPtiAaYrYHACg&amp;sig2=Plglvq9Sv9HMlFwT2ZfT3Q&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.867033,12.478990&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>12.478990,41.867031,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Casino Nobile</name>
+    <description><![CDATA[Via Nomentana, 70 - 00161 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Ore 9.00-19.00 (la biglietteria chiude quarantacinque minuti prima); il 24 e il 31 dicembre ore 9.00-14.00 (la biglietteria chiude quarantacinque minuti prima).</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museivillatorlonia.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f616d90e6ee9f:0x3dfc5782338f778a&amp;q=Via+Nomentana,+70,+00193+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=4XhhUJqHF8PJiAbD_4H4DQ&amp;sig2=tGZz9lDo83Lq8auyKnmiSg&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.915688,12.510811&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>12.510811,41.915688,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Casino delle Civette</name>
+    <description><![CDATA[Via Nomentana, 70 - 00161 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Ore 9.00-19.00 (la biglietteria chiude quarantacinque minuti prima); il 24 e il 31 dicembre ore 9.00-14.00 (la biglietteria chiude quarantacinque minuti prima).</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museivillatorlonia.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f616d90e6ee9f:0x3dfc5782338f778a&amp;q=Via+Nomentana,+70,+00193+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=4XhhUJqHF8PJiAbD_4H4DQ&amp;sig2=tGZz9lDo83Lq8auyKnmiSg&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.915688,12.510811&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>12.510811,41.915688,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Casino dei Principi</name>
+    <description><![CDATA[Via Nomentana, 70 - 00161 Roma -&nbsp; 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Ore 9.00-19.00 (la biglietteria chiude quarantacinque minuti prima); il 24 e il 31 dicembre ore 9.00-14.00 (la biglietteria chiude quarantacinque minuti prima).</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.museivillatorlonia.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f616d90e6ee9f:0x3dfc5782338f778a&amp;q=Via+Nomentana,+70,+00193+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=4XhhUJqHF8PJiAbD_4H4DQ&amp;sig2=tGZz9lDo83Lq8auyKnmiSg&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.915688,12.510811&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>12.510811,41.915688,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Galleria Comunale di Arte Moderna e Contemporanea</name>
+    <description><![CDATA[Via Francesco Crispi, 24 - 00187 Roma - 
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Dal martedì alla domenica 10.00-18.00; 24 e 31 dicembre 10.00-14.00. L’ingresso è consentito fino a mezz’ora prima dell’orario di chiusura</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.galleriaartemodernaroma.it</font></td></tr></tbody></table><br><a href="https://maps.google.it/maps/place?ftid=0x132f61ab1b865f01:0x13094f9aa070acb0&amp;q=Via+Francesco+Crispi,+24,+Roma,+RM&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=EXlhULX5EMTaiAbdyoCQCQ&amp;sig2=tNQfoGagZL0dDHD0OvJhVw&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.904676,12.485900&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>12.485900,41.904675,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Antiquarium del Celio</name>
+    <description><![CDATA[<div>Viale del Parco del Celio - 00184 Roma<br>&nbsp;
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Aperto solo su appuntamento</font></td></tr></tbody></table></div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>12.491060,41.887211,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Macro</name>
+    <description><![CDATA[Via Reggio Emilia, 54 - 00198 Roma<br>
+<table border="0" cellspacing="0" cellpadding="0" width="423" style="width:317pt;border-collapse:collapse">
+<colgroup>
+<col width="423" style="width:317pt">
+<tbody>
+<tr>
+<td height="20" width="423" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:317pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">Martedì-domenica 9.00-19.00; 24 e 31 dicembre 9.00-14.00 (la biglietteria chiude mezz'ora prima)</font></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="64" style="width:48pt;border-collapse:collapse">
+<colgroup>
+<col width="64" style="width:48pt">
+<tbody>
+<tr>
+<td height="20" width="64" style="border-bottom:#f0f0f0;border-left:#f0f0f0;background-color:transparent;width:48pt;border-top:#f0f0f0;border-right:#f0f0f0"><font size="3" face="Calibri">www.macro.roma.museum</font></td></tr></tbody></table>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>12.502204,41.912804,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

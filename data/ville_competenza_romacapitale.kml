@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Ville di competenza di Roma Capitale, 2011</name>
+  <description><![CDATA[Elenco delle Ville di competenza di Roma Capitale, anno 2011]]></description>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Villa Ada Savoia</name>
+    <description><![CDATA[Via Salaria, 267, 00199 Roma<BR>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>12.504393,41.925312,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Paganini</name>
+    <description><![CDATA[<div dir="ltr">Vicolo della Fontana, 28</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>12.509105,41.915958,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Aldobrandini</name>
+    <description><![CDATA[<div>Via Mazzarino, 11 - 00184 Roma<br><a href="https://maps.google.it/maps/place?ftid=0x132f61b279f01acb:0x13094f9aa070b080&amp;q=via+mazzarino,+11&amp;hl=it&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=SaViUJLRJIGj8QP18oGQBw&amp;sig2=sqDa-kOB-bR1jnt98Tuk_w&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.897551,12.486928&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>12.486928,41.897552,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Borghese</name>
+    <description><![CDATA[<div dir="ltr">Via Raimondi (2 Ingressi), Via Pianciana (2 ingressi)</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>12.486745,41.912659,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Carpegna</name>
+    <description><![CDATA[<div dir="ltr">Piazzale di Villa Carpegna</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>12.429840,41.895344,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Celimontana</name>
+    <description><![CDATA[<div dir="ltr">Via Alessandro Poerio, 112</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>12.495170,41.883972,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Chigi</name>
+    <description><![CDATA[<div>Via di Villa Chigi, 24 - 00199 Roma<br><a href="https://maps.google.it/maps/place?ftid=0x132f6145923045c3:0x62452c38b31076f&amp;q=Via+di+villa+chigi,+24&amp;hl=it&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=y6ZiUJ-nN8qu8AP_5IDQBA&amp;sig2=UhIMo6-TaYuRhVoKed4WUQ&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.933111,12.514335&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>12.514335,41.933109,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Doria Pamphili</name>
+    <description><![CDATA[<div dir="ltr">Via Aurelia Antica, 00165 Roma <br></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>12.439606,41.884483,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Sciarra</name>
+    <description><![CDATA[<div dir="ltr">Via Calandrelli 23, 00153 Roma</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>12.463592,41.884014,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Torlonia</name>
+    <description><![CDATA[<div dir="ltr">Via Nomentana, 70</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>12.512121,41.913715,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Bonelli</name>
+    <description><![CDATA[<div dir="ltr">Via Camillo Montalcini, 1</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>12.455160,41.847843,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Flora</name>
+    <description><![CDATA[<div dir="ltr">Villa Flora - Via Portuense, 610</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>12.444200,41.855453,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Lais</name>
+    <description><![CDATA[<div dir="ltr">Piazza Cagliero, 20</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>12.530400,41.875847,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Lazzaroni</name>
+    <description><![CDATA[<div dir="ltr">Via Appia Nuova, 520/522</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>12.525694,41.872227,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Leopardi Dittajuti (Attualmente Chiusa)</name>
+    <description><![CDATA[<div>Via Nomentana, 383</div>
+<div>00162 Roma<br><a href="https://maps.google.it/maps/place?ftid=0x132f615c39e5a13f:0x23db160998fc6fa2&amp;q=Via+Nomentana,+383,+Roma,+RM&amp;hl=it&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=zatiUOehEcri8AOAkICwDA&amp;sig2=RTWYPsWBSsixz_jIYIDVIA&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.926116,12.522831&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>12.520938,41.924072,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Farinacci </name>
+    <description><![CDATA[<div>Viale Jean Jacques Rousseau s.n.c. -</div>
+<div>00137 Roma<br><a href="https://maps.google.it/maps/place?ftid=0x132f638a8348d7d7:0xc3dcef3842534ff8&amp;q=Viale+Rousseau&amp;hl=it&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=PqxiUJirKdOA8gOFqYCoBg&amp;sig2=s6Nbu9yuxzoMSHJGTKntSg&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.939136,12.554798&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>12.554798,41.939137,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Mazzanti</name>
+    <description><![CDATA[<div>Via Gomenizza, 81</div>
+<div>00195 Roma<br>&nbsp;</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>12.456747,41.922749,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Mercede</name>
+    <description><![CDATA[<div>Via Tiburtina, 113</div>
+<div>00185 Roma<br><a href="https://maps.google.it/maps/place?ftid=0x132f619b97088ee5:0x13094f9ac15b7430&amp;q=Via+Tiburtina,+113&amp;hl=it&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=8qxiUJbqJsSV8QPw5ICoBw&amp;sig2=sOfH0AFkITkFHzfUMJrDGA&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.898633,12.514774&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>12.514774,41.898632,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Osio</name>
+    <description><![CDATA[<div>Viale di Porta Ardeatina, 55</div>
+<div>00154 Roma<br><a href="https://maps.google.it/maps/place?ftid=0x132f61d0963828d5:0x49d123ba3ec37fdc&amp;q=Viale+di+Porta+Ardeatina,+55&amp;hl=it&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=Q61iULiXI5Ts8QPIwYH4Ag&amp;sig2=lwj05Oihyh_ANUmzlHJt7A&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.873783,12.494448&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>12.494448,41.873783,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Giardino del Quirinale già di Carlo Alberto</name>
+    <description><![CDATA[<div>Via Firenze, 43&nbsp;&nbsp;00184 Roma - <br>00184 Roma<br><a href="https://maps.google.it/maps/place?ftid=0x132f61ac305a0e17:0xb2cc1b24ec64d302&amp;q=Via+del+Quirinale&amp;hl=it&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=eq1iULnRFsP_8gOh84HQDA&amp;sig2=__HlalDfaoOsfoAk96CnKA&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.900694,12.488930&amp;thumb=0"></a></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>12.488930,41.900696,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
