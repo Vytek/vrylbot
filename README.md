@@ -14,6 +14,10 @@ Librerie utilizzate:
 - Per accesso Twitter: [http://github.com/j7mbo/twitter-api-php- ](http://github.com/j7mbo/twitter-api-php)
 - Per accesso alle API di Agenzia Mobilità Comune di Roma (https://www.agenziamobilita.roma.it/en/od-servizi-real-time.html) [http://scripts.incutio.com/xmlrpc/](http://scripts.incutio.com/xmlrpc/)
 - Per il comando /almanac viene utilizzata la seguente libreria: [https://github.com/davidmpaz/rest-curlclient-php](https://github.com/davidmpaz/rest-curlclient-php) A questo proposito vedere il sito: [http://openalmanac.altervista.org](http://openalmanac.altervista.org/)/
+- 
+Opendata:
+
+http://www.dati.gov.it/dataset?field_spatial_geom=&search_api_views_fulltext=musei+roma&sort_by=search_api_relevance
 
 ### Funzionamento ###
 
