@@ -3,7 +3,7 @@ PHP Experimental Telegram Bot in PHP
 
 VrylBot è un Bot Telegram sperimentale scritto in PHP.
 
-Qui è possibile vederlo all'opera: [https://telegram.me/Vrylbot](https://telegram.me/Vrylbot)
+Qui è possibile vederlo all'opera: [https://telegram.me/vrylbot](https://telegram.me/vrylbot)
 
 Il bot attualmente funziona in modalità "Update" su di una macchina Ubuntu 14.04 sul cloud
 di Digital Ocean.
@@ -24,6 +24,6 @@ Lo script PHP gira come daemon/servizio grazie a questo meraviglioso tutorial:
 
 ###TO DO###
 1. Rendere operativo il tutto in WebHook
-2. Aggiungere comandi per fermale/paline richieste usando Redis
+2. Aggiungere comandi per fermate/paline richieste usando Redis
 3. Usare sistemi di caching per una risposta più veloce dei singoli comandi  
 
