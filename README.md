@@ -29,5 +29,6 @@ Lo script PHP gira come daemon/servizio grazie a questo meraviglioso tutorial:
 ###TO DO###
 1. Rendere operativo il tutto in WebHook
 2. Aggiungere comandi per fermate/paline richieste usando Redis
-3. Usare sistemi di caching per una risposta più veloce dei singoli comandi  
+3. Usare sistemi di caching per una risposta più veloce dei singoli comandi
+4. Inserire nuovi comandi che diano le informazioni riguardo musei, parco, altro geolocalizzandole
 
